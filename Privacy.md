@@ -1,5 +1,5 @@
 # Privacy-Policy
-## Simple Weight Tracker: Privacy policy
+## Easy Weight Tracking: Privacy policy
 
 
 This is an Android app developed by Fayçal Bessayah. 
