@@ -2,7 +2,7 @@
 ## Easy Weight Tracking: Privacy policy
 
 
-This is an Android app developed by Fayçal Bessayah. 
+This app is developed by Fayçal Bessayah. 
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
