@@ -26,6 +26,3 @@ The extension requires minimal permissions:
 
 ## Contact
 For any privacy concerns or questions, please contact us at bessayahf+mapsextractor.com
-
-## Changes to Policy
-We reserve the right to update this privacy policy. Any changes will be reflected in the "Last Updated" date.
